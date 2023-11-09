@@ -1,5 +1,4 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Soft&text=Yuri's%20Github&fontSize=30&color=0:aed581,100:aed581)
 
 <div align="center">
   <h3>I'm Studying</h3>
